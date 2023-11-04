@@ -83,6 +83,9 @@
  h2 {
     padding-bottom: 50px;
     text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
  }
 
  .content {
@@ -177,8 +180,13 @@
     padding: 10px;
  }
 
+ .cta-button a {
+    color: #F9FAF8;
+ }
+
  footer {
     background-color: #1F2937;
     text-align: center;
     padding: 20px 0;
+    color: #F9FAF8;
  }
